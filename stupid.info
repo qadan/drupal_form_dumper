@@ -1,0 +1,5 @@
+name = Stupid
+description = "It's dumb"
+package = Stupid
+version = 7.x
+core = 7.x

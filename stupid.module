@@ -1,0 +1,6 @@
+<?php
+
+function stupid_form_alter(&$form, &$form_state) {
+  dpm($form, 'Form');
+  dpm($form_state, 'Form State');
+}
